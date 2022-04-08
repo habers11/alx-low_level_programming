@@ -1,2 +1,2 @@
 #!/bin/bash
-gcc -s -mesm:intel $CFILE
+gcc -S -mesm:intel $CFILE
